@@ -1,0 +1,13 @@
+﻿  源.cpp
+J:\VS-Workspace\POKEMON\POKEMON\源.cpp(20,10): warning C4129: “l”: 不可识别的字符转义序列
+J:\VS-Workspace\POKEMON\POKEMON\源.cpp(29,66): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=unsigned int
+          ]
+J:\VS-Workspace\POKEMON\POKEMON\源.cpp(30,66): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=unsigned int
+          ]
+  POKEMON.vcxproj -> J:\VS-Workspace\POKEMON\x64\Debug\POKEMON.exe
